@@ -1,5 +1,6 @@
 # malaria_detection
-a project on malaria detection with help of machine learning algorithms
+an end to end project on malaria detection with help of machine learning algorithms
+these data are collected at a hospital in bangladesh, and made public by NIH.
 
 
 Step 1: Download the cell images from here 
